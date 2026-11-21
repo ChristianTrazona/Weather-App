@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_new_york_weather">New York Weather</string>
+    <string name="default_city_name">New York</string>
+    <string name="weather_icon_content_description">Weather Icon</string>
+</resources>
